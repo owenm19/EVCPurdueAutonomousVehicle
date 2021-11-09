@@ -7,3 +7,5 @@ Version 0.1 holds Python code for a Raspberry Pi based autonomous vehicle. It al
 To see work done from Fall 2019 to Spring 2020, check tag Version 0.2. 
 
 Version 0.2 adds to Version 0.1 with C++ code for autonomy, which ultimately carried on to this version. 
+
+For all new commits during the Fall 2021 and Spring 2022 semesters, check tag Version 0.3
